@@ -3,7 +3,7 @@
     "path": "~/git/wordsearch-website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "4014624385",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1745862814629.0,
@@ -17,7 +17,7 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "423:0",
-        "cursorPosition": "27,324",
+        "cursorPosition": "25,160",
         "scrollLine": "12"
     },
     "folds": "",
