@@ -1,0 +1,56 @@
+/* styles.css */
+
+/* Set cozy background color */
+body {
+  background-color: #FAF9F6; /* Creamy parchment */
+  color: #2B2B2B; /* Dark soft black */
+  font-family: 'Merriweather', serif; /* Classic book font */
+  line-height: 1.6;
+  padding: 1rem;
+}
+
+/* Headings: make them feel a little fancier */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  color: #4B3832; /* Warm dark brown */
+}
+
+/* Links: warm brown that changes on hover */
+a {
+  color: #6B4C3B; /* Chestnut brown */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #A0522D; /* Sienna - warm orange-brown */
+  text-decoration: underline;
+}
+
+/* Footer: lighter and smaller */
+footer {
+  font-size: 0.8em;
+  color: #666666;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Add a little padding to sections */
+section {
+  margin-top: 2rem;
+}
+
+/* Buttondown signup link as a nice button */
+a.button {
+  display: inline-block;
+  background-color: #6B4C3B;
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+a.button:hover {
+  background-color: #A0522D;
+}

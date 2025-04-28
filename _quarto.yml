@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "From the desk of K.M. Alderwick"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+  page-footer:
+    center: "© 2025 Professor Alderwick | Delightful Nerdy Puzzles"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
